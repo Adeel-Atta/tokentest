@@ -2,5 +2,22 @@
     "name": "Adeel Atta",
     "symbol": "ADA",
     "description": "ADEEL ATTA, Character Token)",
-    "image": "https://raw.githubusercontent.com/Adeel-Atta/tokentest/main/adeel.jpg"
+    "image": "https://raw.githubusercontent.com/Adeel-Atta/tokentest/main/adeel.jpg",
+    "decimals": 9,
+    "external_url": "https://www.linkedin.com/in/adeel-atta/",
+    "attributes": [
+    {
+      "trait_type": "Creator",
+      "value": "Adeel Atta"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Character Token"
+    },
+    {
+      "trait_type": "Uniqueness",
+      "value": "One of a Kind"
+    }
+  ]
+
     }
